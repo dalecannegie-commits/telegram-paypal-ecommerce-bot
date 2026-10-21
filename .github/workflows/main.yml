@@ -1,0 +1,4 @@
+gh extension install github/gh-aw jobs: concurrency: 
+. / gh aw add-wizard githubnext/agentics/daily-repo-status
+.lock.yml
+gh aw compile 
